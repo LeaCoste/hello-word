@@ -1,2 +1,5 @@
 # hello-word
-Just another repository
+
+Hi Humans!
+
+LeaCoste here, I'm student in Leonard de Vinci
